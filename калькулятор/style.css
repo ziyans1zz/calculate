@@ -1,0 +1,109 @@
+.megadiv {
+    width: 500px;
+    height: 800px;
+    background-color: #360160;;
+}
+
+.calculate {
+    width: 380px;
+    height: 94px;
+    margin-left: 60px;
+    margin-top: 34px;
+    color: #FFDC40;
+    font-size: 52px;
+}
+
+
+.sum {
+    margin-top: 42px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    color: white;
+
+}
+
+.kolvo {
+    font-size: 20px;
+    color: white;
+}
+
+.razmer {
+    width: 380px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #A4CEF4;
+}
+
+
+.grade {
+    width: 380px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #A4CEF4;
+}
+
+.chel {
+    width: 380px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #A4CEF4;
+}
+
+
+
+
+.knopki {
+    margin-top: 42px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+
+
+.lol {
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: yellow;
+    color: black;
+    font-size: 19px;
+}
+
+.lol2 {
+    width: 180px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: gray;
+    color: black;
+    font-size: 19px;
+}
+
+
+
+.chay {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around
+}
+
+.kek10 {
+    font-size: 20px;
+    color: white;
+    display: flex;
+}
+
+
+.vsego {
+    margin-top: 15px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around
+}
+
+.kek20 {
+    font-size: 20px;
+    color: white;
+    display: flex;
+}
